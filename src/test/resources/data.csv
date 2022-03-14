@@ -1,6 +1,9 @@
-100060, 30, true
-1000060, 300, true
-
+'registeredAndUnderLimit',100060, 30, true
+'registeredAndOverLimit',100000060, 500, true
+'registeredAndEqualLimit', 16666666, 500, true
+'noRegisteredAndUnderLimit', 4999946, 499, false
+'noRegisteredAndOverLimit', 50000188, 500, false
+'noRegisteredAndEqualLimit', 5000069, 500, false
 
 
 
